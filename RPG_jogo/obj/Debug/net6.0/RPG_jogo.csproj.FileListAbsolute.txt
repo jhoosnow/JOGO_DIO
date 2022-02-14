@@ -1,0 +1,15 @@
+C:\DIO\RPG_jogo\bin\Debug\net6.0\RPG_jogo.exe
+C:\DIO\RPG_jogo\bin\Debug\net6.0\RPG_jogo.deps.json
+C:\DIO\RPG_jogo\bin\Debug\net6.0\RPG_jogo.runtimeconfig.json
+C:\DIO\RPG_jogo\bin\Debug\net6.0\RPG_jogo.dll
+C:\DIO\RPG_jogo\bin\Debug\net6.0\ref\RPG_jogo.dll
+C:\DIO\RPG_jogo\bin\Debug\net6.0\RPG_jogo.pdb
+C:\DIO\RPG_jogo\obj\Debug\net6.0\RPG_jogo.csproj.AssemblyReference.cache
+C:\DIO\RPG_jogo\obj\Debug\net6.0\RPG_jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO\RPG_jogo\obj\Debug\net6.0\RPG_jogo.AssemblyInfoInputs.cache
+C:\DIO\RPG_jogo\obj\Debug\net6.0\RPG_jogo.AssemblyInfo.cs
+C:\DIO\RPG_jogo\obj\Debug\net6.0\RPG_jogo.csproj.CoreCompileInputs.cache
+C:\DIO\RPG_jogo\obj\Debug\net6.0\RPG_jogo.dll
+C:\DIO\RPG_jogo\obj\Debug\net6.0\ref\RPG_jogo.dll
+C:\DIO\RPG_jogo\obj\Debug\net6.0\RPG_jogo.pdb
+C:\DIO\RPG_jogo\obj\Debug\net6.0\RPG_jogo.genruntimeconfig.cache
