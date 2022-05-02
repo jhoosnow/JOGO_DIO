@@ -1,3 +1,3 @@
 # JOGO_DIO
-Fazendo um joguinho de RPG simples para estudo, construtores, classes, objetos !
-C#
+Desenvolvendo um jogo de RPG simples para estudo em **construtores**, **classes**, **objetos** !
+#C#
